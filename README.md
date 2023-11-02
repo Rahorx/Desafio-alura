@@ -1,6 +1,6 @@
 # Desafio Alura #
 
-> Status do Projeto: Em desenvolvimento
+> Status do Projeto: Finalizado
 >
 > ```
 > Para rodar basta ter instalado uma IDE como IntelliJ ou VSCODE
