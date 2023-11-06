@@ -5,3 +5,5 @@
 > ```
 > Para rodar basta ter instalado uma IDE como IntelliJ ou VSCODE
 > ```
+
+:)
